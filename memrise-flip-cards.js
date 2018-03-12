@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
+// @name         Memrise Flip Cards
+// @namespace    https://github.com/tamueller
 // @version      0.1
-// @description  try to take over the world!
-// @author       Thomas Müller
+// @description  Add Flip Cards to All Courses
+// @author       Thomas Mueller
 // @match        https://www.memrise.com/course/*/garden/*
 // @match        https://www.memrise.com/garden/review/*
 // @grant        none
+// @updateURL    https://github.com/tamueller/memrise-flip-cards/raw/master/memrise-flip-cards.js
+// @downloadURL    https://github.com/tamueller/memrise-flip-cards/raw/master/memrise-flip-cards.js
 // ==/UserScript==
 
 $(document).ready(function() {
