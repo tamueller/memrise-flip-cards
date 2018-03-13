@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Memrise Flip Cards
 // @namespace    https://github.com/tamueller
-// @version      0.1
+// @version      0.1.1
 // @description  Add Flip Cards to All Courses
 // @author       Thomas Mueller
 // @match        https://www.memrise.com/course/*/garden/*
