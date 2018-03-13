@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Memrise Flip Cards
 // @namespace    https://github.com/tamueller
-// @version      0.1.1
+// @version      0.1.2
 // @description  Add Flip Cards to All Courses
 // @author       Thomas Mueller
 // @match        https://www.memrise.com/course/*/garden/*
@@ -42,7 +42,7 @@ function doStuff(){
     flipButton.innerHTML=`
         <div class=\"flip\" id="flipButton">
         <a class=\"btn btn-transparent\" title=\"Blaaa\" accesskey=\"k\">
-        Flip around 2
+        Flip
            </a>
        </div>
         `;
