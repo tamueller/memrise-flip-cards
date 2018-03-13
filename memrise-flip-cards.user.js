@@ -7,8 +7,8 @@
 // @match        https://www.memrise.com/course/*/garden/*
 // @match        https://www.memrise.com/garden/review/*
 // @grant        none
-// @updateURL    https://github.com/tamueller/memrise-flip-cards/raw/master/memrise-flip-cards.js
-// @downloadURL    https://github.com/tamueller/memrise-flip-cards/raw/master/memrise-flip-cards.js
+// @updateURL    https://github.com/tamueller/memrise-flip-cards/raw/master/memrise-flip-cards.user.js
+// @downloadURL    https://github.com/tamueller/memrise-flip-cards/raw/master/memrise-flip-cards.user.js
 // ==/UserScript==
 
 $(document).ready(function() {
