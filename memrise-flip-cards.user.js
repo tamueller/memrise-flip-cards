@@ -83,6 +83,7 @@ function doStuff(){
     }
 
     function right(){
+        MEMRISE.garden.box.$input.input.val(MEMRISE.garden.box.testData.correct[0]);    //if right is clicked before flipped, we still want to get a correct answer
         send();
     }
 
